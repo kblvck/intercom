@@ -75,3 +75,19 @@ Intercom is a single long-running Pear process that participates in three distin
 
 ---
 If you plan to build your own app, study the existing contract/protocol and remove example logic as needed (see `SKILL.md`).
+---
+
+# 🔐 Intercom Sybil Shield
+
+Sybil Shield is a lightweight anti-sybil analytics tool built using Intercom.
+
+It evaluates wallet credibility using:
+- Wallet age heuristics
+- Transaction patterns
+- Behavioral scoring
+
+## 🎯 Purpose
+Helps Web3 communities detect suspicious wallets quickly.
+
+## 🔗 Trac Address
+trac17923acj7lmca5cfyk9e6ql7ttuquhl496rhzf54y9nsfu476v7qqltwsjp
